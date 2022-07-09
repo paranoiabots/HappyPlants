@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "New_Library")(type "KiCad")(uri "/home/paranoia/Documents/Custom Parts/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266")(type "Legacy")(uri "${KIPRJMOD}/includes/ESP8266-01/ESP8266-01_ESP-01.lib")(options "")(descr ""))
 )
